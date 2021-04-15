@@ -23,4 +23,5 @@ https://www.11ty.dev/
 
 - [ ] Create a 'now' page
 - [ ] Create a blog collection and add 'When Fintech Fails' to it
+- [ ] Upload a favicon and put OG images and metadata in
 - [ ] Deploy onto bailey.work
