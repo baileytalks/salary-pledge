@@ -1,6 +1,6 @@
 ---
 layout: base.ejs
-title: Bailey Kursar | Consultant
+title: Bailey Kursar · Consultant
 ---
 
 # Bailey Kursar · Consultant
