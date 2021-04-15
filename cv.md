@@ -1,5 +1,5 @@
 ---
-layout: about.ejs
+layout: secondary.ejs
 title: Bailey Kursar | CV
 ---
 

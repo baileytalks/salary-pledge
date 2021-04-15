@@ -1,5 +1,5 @@
 ---
-layout: base.ejs
+layout: home.ejs
 title: Bailey Kursar · Consultant
 ---
 
@@ -13,4 +13,4 @@ On my [CV](/cv) you can read about my work, including at Monzo and MarketFinance
 
 [Get in touch](mailto:bkursar@gmail.com) to see how we can work together.
 
-![Bailey Kursar](img/headshot.jpg)
+[<img src="img/headshot.jpg" alt="Bailey Kursar" width="250"/>](img/headshot.jpg)

@@ -1,5 +1,5 @@
 ---
-layout: about.ejs
+layout: secondary.ejs
 title: Bailey Kursar | About
 ---
 
@@ -10,7 +10,8 @@ title: Bailey Kursar | About
 - Used to work at Monzo, MarketInvoice (now MarketFinance), Funding Options and Zopa.
 - Advocate for so-called 'vulnerable customers', particularly those affected by impairments such as mental health difficulties, dementia or learning difficulties.
 
-![Bailey Kursar](../img/Bailey_Natural_Headshot.jpg)
+[<img src="../img/Bailey_Natural_Headshot.jpg" alt="Bailey Kursar" width="250"/>](../img/Bailey_Natural_Headshot.jpg)
+
 
 ---
 
@@ -30,7 +31,7 @@ We were able to build out the team, build the first version of our mobile app, a
 
 Since then we've been chosen as finalists as part of **[Nesta's Open Up 2020 Challenge](https://medium.com/toucotalks/nesta-open-up-challenge-c08ee2fb807d?source=friends_link&sk=369ee6320bf10ea2e47cff7e018bae08)**, gone through the **[Barclays Techstars 2020](https://www.techstars.com/newsroom/10-hottest-fintech-companies-head-to-rise-london)** accelerator, released a **[new version of our app](https://medium.com/toucotalks/building-touco-together-67b22e1306b0?source=friends_link&sk=c653cc6d9bd95a71347a71c7c16e26fd)** and **[announced that we're building a Care Card](https://medium.com/toucotalks/were-building-a-care-card-with-help-from-innovate-uk-f010a3e04d9e?source=friends_link&sk=5b46767dbaada149e7605d90993e04a7)** with support from Innovate UK.
 
-![Bailey speaking](../img/banner.png)
+[<img src="../img/banner.png" alt="Bailey Kursar" width="250"/>](../img/banner.png)
 
 Speaking as a finalist at the Innovating for Ageing awards 2019
 
@@ -64,6 +65,6 @@ Believe it or not, I'm more than a fintech nerd! Among other things:
 - I harbour a secret desire to go back to university to study economics.
 - I love going on long train trips (longest so far was Chicago to San Francisco in 4 days!).
 
-![Train in Serbia](../img/train.jpg)
+[<img src="../img/train.jpg" alt="Train in Serbia" width="250"/>](../img/train.jpg)
 
 Train trip from Belgrade in Serbia to Bar in Montenegro, 2016.
