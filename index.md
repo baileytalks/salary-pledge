@@ -47,6 +47,7 @@ I will be bringing this up next time you’re on stage talking about diversity a
 
 ---
 
+## The salary pledge
 
 > We pledge to publish a fixed salary or salary range on every public job description.
 
