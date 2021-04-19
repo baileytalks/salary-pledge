@@ -43,7 +43,7 @@ Instead of 'celebrating' and 'empowering' us, can you pledge to show the salary 
 
 I will be bringing this up next time you’re on stage talking about diversity and inclusion. Walk the walk.
 
-**[Sign the pledge](mailto:bkursar@gmailcom?subject=I want to sign the salary pledge).**
+**[Sign the pledge](mailto:bkursar@gmail.com?subject=I%20want%20to%20sign%20the%20salary%20pledge)**
 
 ---
 
