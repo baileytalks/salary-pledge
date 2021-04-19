@@ -1,6 +1,6 @@
 ---
 layout: home.ejs
-title: Sign the salary pledge
+title: Salary Pledge · Pledge to show the salary on job descriptions
 ---
 
 # Pledge to show the salary on job descriptions
